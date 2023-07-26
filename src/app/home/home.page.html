@@ -10,8 +10,4 @@
   <ion-button expand="block" (click)="pickPhoto()">
     Pick Photos
   </ion-button>
-
-  <div *ngIf="images.length > 0">
-    <img *ngFor="let image or images" [src]="image" />
-  </div>
 </ion-content>
