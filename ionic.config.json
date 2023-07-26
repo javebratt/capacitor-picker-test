@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-picker-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
